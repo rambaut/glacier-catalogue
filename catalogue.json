@@ -3,12 +3,12 @@
   "description": "Méthodes et protocoles d’analyse épidémiologique des maladies infectieuses en République démocratique du Congo.",
   "icon": "INRB-UMIE.png",
   "scheme": {
-    "background": "#F2F1E6",
-    "foreground": "#02292E",
+    "background": "#FFFFFF",
+    "foreground": "#000000",
     "font-family": "Helvetica Neue Light, Helvetica, sans-serif",
     "font-size": "12px",
-    "title-bg": "#005B68",
-    "title-fg": "#F7EECA",
+    "title-bg": "#AAAAAA",
+    "title-fg": "#222222",
     "title-font-family": "Helvetica Neue Thin, Helvetica, sans-serif",
     "title-font-size": "18px",
     "section-bg": "#F7EECA",
@@ -22,72 +22,14 @@
   },
   "sections": [
     {
-      "name": "workshop",
+      "name": "INRB BDBV Genomic Epidemiology",
       "description": "Workflows for ARTIC LHF Workshop 2026",
       "icon": "artic.png",
       "workflows": [
         {
-          "name": "amplicon-nf",
-          "repo": "artic-network/amplicon-nf",
+          "name": "bdbv-genepi-nf",
+          "repo": "artic-network/bdbv-genepi-nf",
           "version": "latest"
-        },
-        {
-          "name": "raccoon-nf",
-          "repo": "artic-network/raccoon-nf",
-          "version": "latest"
-        },
-        {
-          "name": "raccoon-nf (bad URL)",
-          "repo": "artic-network/raccoon_nf",
-          "version": "latest"
-        },
-        {
-          "name": "not a workflow",
-          "repo": "artic-network/peartree",
-          "version": "latest"
-        }
-      ]
-    },
-    {
-      "name": "general",
-      "description": "General workflows for ARTIC activities",
-      "icon": "artic.png",
-      "workflows": [
-        {
-          "name": "amplicon-nf",
-          "repo": "artic-network/amplicon-nf",
-          "version": "latest"
-        },
-        {
-          "name": "amplicon-nf",
-          "repo": "artic-network/amplicon-nf",
-          "version": "0.6.1"
-        }
-      ]
-    },
-    {
-      "name": "MPXV",
-      "description": "Workflows for Mpox virus",
-      "icon": "mpxv.png",
-      "scheme": {
-        "session-bg": "#F7EECA",
-        "session-fg": "#005B68",
-        "session-title-bg": "#BF4B43",
-        "session-title-fg": "#E6D595"
-      },
-      "workflows": [
-        {
-          "name": "amplicon-nf",
-          "repo": "artic-network/amplicon-nf",
-          "version": "latest",
-          "scheme": {
-            "workflow-bg": "#BF4B43",
-            "workflow-fg": "#E6D595"
-          }
-        },
-        {
-          "name": "squirrel-nf",
-          "repo": "artic-network/squirrel-nf"
         }
       ]
     }
