@@ -1,7 +1,7 @@
 {
-  "name": "ARTIC-network",
-  "description": "ARTIC network is a project funded by the Wellcome Trust for outbreak and epidemic response through genomic epidemiology.",
-  "icon": "artic.png",
+  "name": "INRB Unité de Modélisation et Intelligence Epidémique / ARTIC",
+  "description": "Méthodes et protocoles d’analyse épidémiologique des maladies infectieuses en République démocratique du Congo.",
+  "icon": "INRB-UMIE.png",
   "scheme": {
     "background": "#F2F1E6",
     "foreground": "#02292E",
