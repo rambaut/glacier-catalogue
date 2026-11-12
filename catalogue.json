@@ -13,12 +13,12 @@
     "title-font-size": "18px",
     "section-bg": "#547B86",
     "section-fg": "#02292E",
-    "section-title-bg": "#F5E8DB",
-    "section-title-fg": "#9CACA8",
+    "section-title-bg": "#547B86",
+    "section-title-fg": "#02292E",
     "workflow-bg": "#547B86",
     "workflow-fg": "#FAEFD1",
-    "control-bg": "#F5E8DB",
-    "control-fg": "#F5D447"
+    "control-bg": "#52495A",
+    "control-fg": "#FAEFD1"
   },
   "sections": [
     {
