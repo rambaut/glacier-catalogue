@@ -3,22 +3,22 @@
   "description": "Méthodes et protocoles d’analyse épidémiologique des maladies infectieuses en République démocratique du Congo.",
   "icon": "INRB-UMIE.png",
   "scheme": {
-    "background": "#FFFFFF",
-    "foreground": "#000000",
+    "background": "#DCDDD8",
+    "foreground": "#636556",
     "font-family": "Helvetica Neue Light, Helvetica, sans-serif",
     "font-size": "12px",
-    "title-bg": "#FFFFFF",
-    "title-fg": "#222222",
+    "title-bg": "#636556",
+    "title-fg": "#9CACA8",
     "title-font-family": "Helvetica Neue Thin, Helvetica, sans-serif",
     "title-font-size": "18px",
     "section-bg": "#F7EECA",
     "section-fg": "#02292E",
-    "section-title-bg": "#015C68",
-    "section-title-fg": "#21968B",
-    "workflow-bg": "#F7EECA",
-    "workflow-fg": "#02292E",
-    "control-bg": "#F7EECA",
-    "control-fg": "#02292E"
+    "section-title-bg": "#636556",
+    "section-title-fg": "#9CACA8",
+    "workflow-bg": "#DCDDD8",
+    "workflow-fg": "#C39A55",
+    "control-bg": "#9CACA8",
+    "control-fg": "#F5D447"
   },
   "sections": [
     {
