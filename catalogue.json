@@ -22,8 +22,8 @@
   },
   "sections": [
     {
-      "name": "INRB BDBV Genomic Epidemiology",
-      "description": "Workflows for ARTIC LHF Workshop 2026",
+      "name": "INRB/ARTIC BDBV Genomic Epidemiology",
+      "description": "Workflows for Bundibugyo virus outbreak analysis",
       "icon": "artic.png",
       "workflows": [
         {
