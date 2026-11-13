@@ -12,10 +12,10 @@
     "title-font-family": "Helvetica Neue Thin, Helvetica, sans-serif",
     "title-font-size": "18px",
     "section-bg": "#547B86",
-    "section-fg": "#02292E",
-    "section-title-bg": "#7A8E87",
+    "section-fg": "#FAEFD1",
+    "section-title-bg": "#547B86",
     "section-title-fg": "#02292E",
-    "workflow-bg": "#547B86",
+    "workflow-bg": "#7A8E87",
     "workflow-fg": "#FAEFD1",
     "control-bg": "#52495A",
     "control-fg": "#FAEFD1"
